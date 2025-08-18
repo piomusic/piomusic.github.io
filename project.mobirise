@@ -537,7 +537,7 @@
             },
             "overflow": "hidden",
             ".media-container-row .mbr-text": {
-              "color": "#bbbbbb"
+              "color": "#000000"
             }
           },
           "_name": "footer7",
