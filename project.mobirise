@@ -61,7 +61,8 @@
     "gdpr": false,
     "mbrsiteDomain": "qnkudrm9se",
     "uniqCompNum": 27,
-    "versionPublish": "6.0.6"
+    "versionPublish": "6.0.6",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
