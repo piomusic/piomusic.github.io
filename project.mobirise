@@ -16,7 +16,7 @@
         "display1Size": "6.6",
         "display2Font": "Cinzel",
         "display2Size": "2",
-        "display5Font": "Roboto",
+        "display5Font": "Open Sans",
         "display5Size": "2",
         "display7Font": "Cinzel",
         "display7Size": "1",
@@ -63,6 +63,11 @@
         "css": "'Roboto', sans-serif",
         "name": "Roboto",
         "url": "https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700,800,900,100i,200i,300i,400i,500i,600i,700i,800i,900i"
+      },
+      {
+        "css": "'Open Sans', sans-serif",
+        "name": "Open Sans",
+        "url": "https://fonts.googleapis.com/css?family=Open+Sans:300,400,500,600,700,800,300i,400i,500i,600i,700i,800i"
       }
     ],
     "imageResize": true,
