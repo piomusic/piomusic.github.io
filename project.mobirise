@@ -16,7 +16,7 @@
         "display1Size": "6.6",
         "display2Font": "Cinzel",
         "display2Size": "2",
-        "display5Font": "Jost",
+        "display5Font": "Roboto",
         "display5Size": "2",
         "display7Font": "Cinzel",
         "display7Size": "1",
@@ -53,6 +53,16 @@
         "css": "'Jost', sans-serif",
         "name": "Jost",
         "url": "https://fonts.googleapis.com/css?family=Jost:100,200,300,400,500,600,700,800,900,100i,200i,300i,400i,500i,600i,700i,800i,900i"
+      },
+      {
+        "css": "'Noto Sans JP', sans-serif",
+        "name": "Noto Sans JP",
+        "url": "https://fonts.googleapis.com/css?family=Noto+Sans+JP:100,200,300,400,500,600,700,800,900"
+      },
+      {
+        "css": "'Roboto', sans-serif",
+        "name": "Roboto",
+        "url": "https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700,800,900,100i,200i,300i,400i,500i,600i,700i,800i,900i"
       }
     ],
     "imageResize": true,
@@ -63,11 +73,11 @@
     "sitemapSwitcherAuto": false,
     "siteUrl": false,
     "cookiesAlert": false,
-    "gdpr": false,
-    "mbrsiteDomain": "qnkudrm9se",
+    "mbrsiteDomain": "1mkmpdl2xo",
     "uniqCompNum": 28,
     "versionPublish": "6.0.6",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "gdpr": false
   },
   "pages": {
     "index.html": {
